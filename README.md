@@ -66,7 +66,7 @@ Foram realizados os seguintes testes:
 •	Teste da exibição correta dos elementos Bootstrap.
 Links
 Repositório
-
+https://github.com/victorsalmasio-ux/site-takay-/blob/main/README.md
 Site publicado
 https://github.com/victorsalmasio-ux/site-takay-
 
